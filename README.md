@@ -6,6 +6,8 @@
 
 React component which removes outlines on mouse interactions and restores them on keyboard navigation
 
+Check out the [basic demo](https://codesandbox.io/s/mzv54pw10p)
+
 ## Install
 
     $ npm install --save react-outline-hider
