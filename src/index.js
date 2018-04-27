@@ -1,6 +1,7 @@
-import React from "react"
-import outlineHider from "outline-hider"
+import React from 'react'
+import outlineHider from 'outline-hider'
 
+/* eslint class-methods-use-this:0 */
 class ReactOutlineHider extends React.Component {
   componentWillMount() {
     this.unregister = outlineHider()
