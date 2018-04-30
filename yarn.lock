@@ -4566,9 +4566,9 @@ osenv@^0.1.4:
     os-homedir "^1.0.0"
     os-tmpdir "^1.0.0"
 
-outline-hider@^0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/outline-hider/-/outline-hider-0.0.2.tgz#0b4f0c3bd9c6e0df926f0a90455b3b7cd3729ed8"
+outline-hider@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/outline-hider/-/outline-hider-0.0.3.tgz#620b9f383a787d29a7479290d06033bf74bad4f5"
 
 output-file-sync@^1.1.2:
   version "1.1.2"
