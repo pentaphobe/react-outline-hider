@@ -1,6 +1,6 @@
 {
   "name": "react-outline-hider",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "React component which removes outlines on mouse interactions and restores them on keyboard navigation",
   "license": "MIT",
   "repository": "pentaphobe/react-outline-hider",
